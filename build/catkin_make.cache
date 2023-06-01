@@ -1,0 +1,2 @@
+Puzzlebot_Gazebo_Simulator/puzzlebot_control:Puzzlebot_Gazebo_Simulator/puzzlebot_gazebo:Puzzlebot_Gazebo_Simulator/puzzlebot_world:fiducials/aruco_detect:fiducials/fiducial_msgs:fiducials/fiducial_slam:fiducials/fiducials:fiducials/stag_detect:my_ugv_description:mypkg:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations:turtlebot_kalman:turtlebot_vision
+-DCATKIN_DEVEL_PREFIX=/home/student/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/catkin_ws/install -G Unix Makefiles
